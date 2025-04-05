@@ -1,0 +1,457 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASM_SIMS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASM_SIMS.q4eqxqqxnq.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\css\\app.css",
+      "PackagePath": "staticwebassets\\SIMS\\css\\app.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\css\\app.css.map",
+      "PackagePath": "staticwebassets\\SIMS\\css\\app.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\fonts\\.gitkeep",
+      "PackagePath": "staticwebassets\\SIMS\\fonts\\.gitkeep"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\img\\avatars\\Screenshot 2025-04-01 192608.png",
+      "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\Screenshot 2025-04-01 192608.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\avatar-4.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\avatar-5.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\img\\avatars\\avatar.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\img\\avatars\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\img\\icons\\icon-48x48.png",
+      "PackagePath": "staticwebassets\\SIMS\\img\\icons\\icon-48x48.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\img\\photos\\unsplash-1.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\img\\photos\\unsplash-1.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\img\\photos\\unsplash-2.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\img\\photos\\unsplash-2.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\img\\photos\\unsplash-3.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\img\\photos\\unsplash-3.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\js\\app.js",
+      "PackagePath": "staticwebassets\\SIMS\\js\\app.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\js\\app.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\SIMS\\js\\app.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\js\\app.js.map",
+      "PackagePath": "staticwebassets\\SIMS\\js\\app.js.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\18b4e065-b5d6-410d-8dc1-29ab70674338_2.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\18b4e065-b5d6-410d-8dc1-29ab70674338_2.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\1a91773a-eb79-422a-b119-95c952285039_1_TECZfu0V6Bp01pOBqyJbYA.webp",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\1a91773a-eb79-422a-b119-95c952285039_1_TECZfu0V6Bp01pOBqyJbYA.webp"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\1b50c221-5e31-4505-a8aa-1971d7b2a214_6.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\1b50c221-5e31-4505-a8aa-1971d7b2a214_6.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\1c1ba490-fd2a-48a1-a7ff-fbaed45bdfc7_setting4.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\1c1ba490-fd2a-48a1-a7ff-fbaed45bdfc7_setting4.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\23f0e9fc-6d80-4ffb-89c7-f79f6a611ef0_1_TECZfu0V6Bp01pOBqyJbYA.webp",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\23f0e9fc-6d80-4ffb-89c7-f79f6a611ef0_1_TECZfu0V6Bp01pOBqyJbYA.webp"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\259898c6-dda6-41ea-94bd-b4bd087dfb5f_2.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\259898c6-dda6-41ea-94bd-b4bd087dfb5f_2.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\42a69ef1-d89d-406c-9878-df73bda47a9c_1.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\42a69ef1-d89d-406c-9878-df73bda47a9c_1.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\46f4c623-8bfe-41f9-bf81-8f5e730cef34_1.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\46f4c623-8bfe-41f9-bf81-8f5e730cef34_1.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\554d0a2e-f852-4d11-8e47-4b8fcd6cb503_1.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\554d0a2e-f852-4d11-8e47-4b8fcd6cb503_1.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\6d6ad110-83e7-449b-99ee-83d2944ad85b_setting2.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\6d6ad110-83e7-449b-99ee-83d2944ad85b_setting2.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\6dad0607-9dde-4b1e-9b32-c6dd20ae50cc_logo_expenses.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\6dad0607-9dde-4b1e-9b32-c6dd20ae50cc_logo_expenses.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\70a90daf-505e-41e1-99c6-7881d3624b8c_2.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\70a90daf-505e-41e1-99c6-7881d3624b8c_2.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\87ae4102-3a3a-44e4-906a-d86362ba5071_dashboard_lodo.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\87ae4102-3a3a-44e4-906a-d86362ba5071_dashboard_lodo.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\8ef2bfb8-61db-4301-9131-c529ef514e7f_classdiadram AD.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\8ef2bfb8-61db-4301-9131-c529ef514e7f_classdiadram AD.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\9b19c60b-800b-46c9-8a7c-783651817c54_setting2.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\9b19c60b-800b-46c9-8a7c-783651817c54_setting2.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\9c1a3595-9184-4690-af12-ef4dd444afc6_1.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\9c1a3595-9184-4690-af12-ef4dd444afc6_1.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\9c463d59-2243-4614-a49c-33cc6b662c02_budget2.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\9c463d59-2243-4614-a49c-33cc6b662c02_budget2.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\a067be41-dc5d-4576-a925-6496b6d89b9b_budget2.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\a067be41-dc5d-4576-a925-6496b6d89b9b_budget2.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\a52cc097-c934-49ab-b253-ca8fcc357879_setting3.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\a52cc097-c934-49ab-b253-ca8fcc357879_setting3.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\b0b38769-d309-446d-9afb-f4279cf15276_expenses2.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\b0b38769-d309-446d-9afb-f4279cf15276_expenses2.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\b3757540-dc33-483a-beb0-9dffc3abafb0_Screenshot (1).png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\b3757540-dc33-483a-beb0-9dffc3abafb0_Screenshot (1).png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\b6f9e5c0-3042-4a1f-a63a-b5c201db38f7_1.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\b6f9e5c0-3042-4a1f-a63a-b5c201db38f7_1.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\b7ac97ca-6361-43cc-b477-01cb0d670fe6_budget2.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\b7ac97ca-6361-43cc-b477-01cb0d670fe6_budget2.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\b7b29cf5-3b74-445f-92dc-f0d593f9a51b_setting2.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\b7b29cf5-3b74-445f-92dc-f0d593f9a51b_setting2.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\ce717a11-d1b7-4c49-92de-9c19b0710d4d_1.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\ce717a11-d1b7-4c49-92de-9c19b0710d4d_1.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\d2077dd6-1e77-4f7a-a974-f2d2387c44b6_1.jpg",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\d2077dd6-1e77-4f7a-a974-f2d2387c44b6_1.jpg"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\dcde2554-01e7-4424-92fe-1b125068e0af_1_TECZfu0V6Bp01pOBqyJbYA.webp",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\dcde2554-01e7-4424-92fe-1b125068e0af_1_TECZfu0V6Bp01pOBqyJbYA.webp"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\e441ffbc-903e-4951-a604-ec47d1fc8284_home.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\e441ffbc-903e-4951-a604-ec47d1fc8284_home.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\ec145f0a-ca31-4ef8-b505-c258081a7a94_setting2.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\ec145f0a-ca31-4ef8-b505-c258081a7a94_setting2.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\ef74ab19-d248-4f39-adb5-8a1747f78271_expenses2.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\ef74ab19-d248-4f39-adb5-8a1747f78271_expenses2.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\SIMS\\uploads\\images\\fcfd977b-bd70-40b9-8b7d-5fd5ea7f7ca5_dashboard_lodo.png",
+      "PackagePath": "staticwebassets\\SIMS\\uploads\\images\\fcfd977b-bd70-40b9-8b7d-5fd5ea7f7ca5_dashboard_lodo.png"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASM_WEB_SIMS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASM_SIMS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASM_SIMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ASM_SIMS.props",
+      "PackagePath": "build\\ASM_SIMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASM_SIMS.props",
+      "PackagePath": "buildMultiTargeting\\ASM_SIMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASM_SIMS.props",
+      "PackagePath": "buildTransitive\\ASM_SIMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
